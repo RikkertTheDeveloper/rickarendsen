@@ -1,17 +1,16 @@
 <script>
     import PostCard from "../../components/post-card.svelte";
     import {InputChip} from "@skeletonlabs/skeleton"
-    import { fade } from 'svelte/transition'
 </script>
 
-<div class="top-section" transition:fade>
+<div class="top-section">
     <h2 class="mt-5 mb-5 text-left max-sm:text-center font-bold">Blog</h2>
     <p class="mb-2">Op deze pagina kan u een actueel overzicht bekijken van alle blog posts die geplaast zijn op mijn website.</p>
 
     <InputChip class="w-1/2 my-4 max-sm:w-full" rounded="rounded-3xl" padding="p-4" placeholder="Zoek naar tags" />
 </div>
 
-<div class="flex flex-row flex-wrap max-sm:flex-col space-y-2" transition:fade>
+<div class="flex flex-row flex-wrap max-sm:flex-col space-y-2">
         <PostCard
             category="Blog"
             title="Mijn Deelname aan WorldSkills Netherlands"
