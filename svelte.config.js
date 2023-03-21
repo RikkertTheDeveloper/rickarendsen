@@ -9,8 +9,7 @@ const config = {
         preserveComments: false,
         preserveWhitespace: false,
         immutable: true,
-        hydratable: true,
-        css: "external"
+        css: "injected"
     },
 
 	kit: {
