@@ -1,6 +1,6 @@
 <script>
     import Blog from "svelte-material-icons/Podcast.svelte";
-    import GitHub from "svelte-material-icons/GitHub.svelte";
+    import GitHub from "svelte-material-icons/Github.svelte";
 
     import { slide } from "svelte/transition";
 </script>
