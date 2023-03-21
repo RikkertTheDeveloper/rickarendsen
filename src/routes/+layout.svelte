@@ -31,7 +31,9 @@
 
 	<svelte:fragment slot="trail">
         <LightSwitch />
-        <Github size=25 />
+        <a href="https://www.github.com/rikkertthedeveloper/rickarendsen">
+            <Github size=25 />
+        </a>
     </svelte:fragment>
 </AppBar>
 
