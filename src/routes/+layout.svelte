@@ -13,6 +13,7 @@
 <svelte:head>
 	<title>Rick Arendsen - Full Stack Developer</title>
     <meta name="description" content="Hallo, mijn naam is Rick Arendsen. Ik ben een 18 jaar oude student met een grote passie voor Software Development.">
+    <meta name="google-site-verification" content="FZ_YSa8GDVaEDqWA21Eg6bEbd_NWRyf4wsjBH78jcjk" />
 </svelte:head>
 
 <AppBar
