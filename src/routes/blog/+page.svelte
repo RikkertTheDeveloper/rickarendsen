@@ -42,4 +42,16 @@
         profile="https://media.licdn.com/dms/image/D4E03AQHoRXxiQ3vGbA/profile-displayphoto-shrink_200_200/0/1674656535932?e=1684972800&v=beta&t=fD1FybpxUjn-TsvtsQiok94DEX1YvI8OUkkJeyWckqs"
         description="Ik hou heel erg van mijn technische kennis uit de dagen, daarom heb ik een zero-boilerplate testing suite gemaakt die opgezet kan worden binnen enkele seconden."
     />
+
+    <PostCard
+        category="Blog"
+        title="Wat is Sitemap Generator?"
+        author="Rick Arendsen"
+        date="28-03-2023 - 15:30"
+        tags={["development", "projecten", "seo"]}
+        priority="warning"
+        slug="wat-is-sitemap-generator"
+        profile="https://media.licdn.com/dms/image/D4E03AQHoRXxiQ3vGbA/profile-displayphoto-shrink_200_200/0/1674656535932?e=1684972800&v=beta&t=fD1FybpxUjn-TsvtsQiok94DEX1YvI8OUkkJeyWckqs"
+        description="Sitemaps zijn vitaal voor de SEO van een website, maar hoe maak je makkelijk sitemaps van dynamische content? Deze tool helpt u hierbij."
+    />
 </div>
