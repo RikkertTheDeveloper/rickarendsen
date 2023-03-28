@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
+    
     <sitemap>
         <loc>https://rickarendsen.nl/sitemap-blog.xml</loc>
-        <lastmod>2023-28-03</lastmod>
+        <lastmod>2023-03-28T14:07:21+00:00</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://rickarendsen.nl/sitemap-pages.xml</loc>
-        <lastmod>2023-28-03</lastmod>
+        <lastmod>2023-03-28T14:07:21+00:00</lastmod>
     </sitemap>
 </sitemapindex>
