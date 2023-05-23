@@ -3,10 +3,10 @@
 </script>
 
 <svelte:head>
-    <title>Mijn Deelname Aan Worldskills Netherlands</title>
+    <title>Retrospective Worldskills Netherlands</title>
     <meta
         name="description"
-        content="Lees hier mijn verhaal over mijn deelname aan de finales van WorldSkills Netherlands."
+        content="Ik heb recent deelgenomen aan de finales van WorldSkills Netherlands, in deze blog post deel ik mijn ervaringen over de wedstrijd."
     />
 </svelte:head>
 

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+   
+        <url>
+            <loc>https://rickarendsen.nl/</loc>
+            <lastmod>2023-05-23</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.7</priority>
+            
+        </url>
+        <url>
+            <loc>https://rickarendsen.nl/de-rust-programmeertaal</loc>
+            <lastmod>2023-02-28</lastmod>
+            <changefreq>yearly</changefreq>
+            <priority>0.5</priority>
+            
+            <news:news>
+                <news:publication>
+                    <news:name>Rick Arendsen Lab</news:name>
+                    <news:language>nl</news:language>
+                </news:publication>
+
+                <news:publication_date>2023-03-22</news:publication_date>
+                <news:title>De Rust Programmeertaal</news:title>
+            </news:news>
+        </url>
+</urlset>

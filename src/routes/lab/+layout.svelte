@@ -3,10 +3,10 @@
 </script>
 
 <svelte:head>
-    <title>Rick Arendsen - Blog</title>
+    <title>Rick Arendsen - Laboratorium</title>
     <meta
         name="description"
-        content="Bekijk op deze pagina een actueel nieuwsoverzicht van mijn IT-ervaringen."
+        content="Bekijk op deze pagina al mijn nieuwe experimentele projecten en tools."
     />
 </svelte:head>
 

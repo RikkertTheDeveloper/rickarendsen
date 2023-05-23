@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <sitemap>
+        <loc>https://rickarendsen.nl/sitemap-blog.xml.gz</loc>
+        <lastmod>2023-23-05</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://rickarendsen.nl/sitemap-projects.xml.gz</loc>
+        <lastmod>2023-23-05</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://rickarendsen.nl/sitemap-lab.xml.gz</loc>
+        <lastmod>2023-23-05</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://rickarendsen.nl/sitemap-pages.xml.gz</loc>
+        <lastmod>2023-28-03</lastmod>
+    </sitemap>
+</sitemapindex>

@@ -11,38 +11,6 @@
         </url>
         <url>
             <loc>https://rickarendsen.nl/mijn-deelname-aan-worldskills</loc>
-            <lastmod>2023-02-21</lastmod>
-            <changefreq>yearly</changefreq>
-            <priority>0.5</priority>
-            
-            <news:news>
-                <news:publication>
-                    <news:name>Rick Arendsen Blog</news:name>
-                    <news:language>nl</news:language>
-                </news:publication>
-
-                <news:publication_date>2023-03-21</news:publication_date>
-                <news:title>Mijn deelname aan WorldSkills</news:title>
-            </news:news>
-        </url>
-        <url>
-            <loc>https://rickarendsen.nl/wat-is-flask-testing-suite</loc>
-            <lastmod>2023-02-21</lastmod>
-            <changefreq>yearly</changefreq>
-            <priority>0.5</priority>
-            
-            <news:news>
-                <news:publication>
-                    <news:name>Rick Arendsen Blog</news:name>
-                    <news:language>nl</news:language>
-                </news:publication>
-
-                <news:publication_date>2023-03-21</news:publication_date>
-                <news:title>Wat is Flask Suite?</news:title>
-            </news:news>
-        </url>
-        <url>
-            <loc>https://rickarendsen.nl/wat-is-sitemap-generator</loc>
             <lastmod>2023-02-28</lastmod>
             <changefreq>yearly</changefreq>
             <priority>0.5</priority>
@@ -53,8 +21,56 @@
                     <news:language>nl</news:language>
                 </news:publication>
 
-                <news:publication_date>2023-03-28</news:publication_date>
+                <news:publication_date>2023-03-22</news:publication_date>
+                <news:title>Mijn deelname aan WorldSkills</news:title>
+            </news:news>
+        </url>
+        <url>
+            <loc>https://rickarendsen.nl/wat-is-flask-suite</loc>
+            <lastmod>2023-02-28</lastmod>
+            <changefreq>yearly</changefreq>
+            <priority>0.5</priority>
+            
+            <news:news>
+                <news:publication>
+                    <news:name>Rick Arendsen Blog</news:name>
+                    <news:language>nl</news:language>
+                </news:publication>
+
+                <news:publication_date>2023-03-22</news:publication_date>
+                <news:title>Wat is Flask Suite?</news:title>
+            </news:news>
+        </url>
+        <url>
+            <loc>https://rickarendsen.nl/wat-is-sitemap-generator</loc>
+            <lastmod>2023-05-23</lastmod>
+            <changefreq>yearly</changefreq>
+            <priority>0.5</priority>
+            
+            <news:news>
+                <news:publication>
+                    <news:name>Rick Arendsen Blog</news:name>
+                    <news:language>nl</news:language>
+                </news:publication>
+
+                <news:publication_date>2023-03-22</news:publication_date>
                 <news:title>Wat is Sitemap Generator?</news:title>
+            </news:news>
+        </url>
+        <url>
+            <loc>https://rickarendsen.nl/retrospective-worldskills-netherlands</loc>
+            <lastmod>2023-05-23</lastmod>
+            <changefreq>yearly</changefreq>
+            <priority>0.5</priority>
+            
+            <news:news>
+                <news:publication>
+                    <news:name>Rick Arendsen Blog</news:name>
+                    <news:language>nl</news:language>
+                </news:publication>
+
+                <news:publication_date>2023-03-22</news:publication_date>
+                <news:title>Retrospective Worldskills Netherlands</news:title>
             </news:news>
         </url>
 </urlset>

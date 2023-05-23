@@ -1,29 +1,37 @@
 <script>
     import Blog from "svelte-material-icons/Podcast.svelte";
-    import GitHub from "svelte-material-icons/Github.svelte";
+    import BagSuitcase from "svelte-material-icons/BagSuitcase.svelte";
 
     import { slide } from "svelte/transition";
 </script>
 
 <div class="w-5/6 mt-5 m-auto" transition:slide|local>
-    <span>Hallo, ik ben,</span>
+    <span class="text-surface-400">Hallo, ik ben,</span>
     <h1 class="font-black">Rick Arendsen</h1>
     <span class="text-2xl">Full Stack Developer</span>
 
     <div class="badge-list flex align-center mt-2 flex-wrap space-x-2">
-        <span class="chip variant-soft hover:variant-filled-primary"
-            >Projecten</span
-        >
-        <span class="chip variant-soft hover:variant-filled-secondary"
-            >Bibliotheken</span
-        >
-        <span class="chip variant-soft hover:variant-filled-tertiary"
-            >Contributies</span
-        >
+        <a href="/projecten">
+            <span class="chip variant-soft hover:variant-filled-primary">
+                Projecten
+            </span>
+        </a>
+
+        <a href="/blog">
+            <span class="chip variant-soft hover:variant-filled-secondary">
+                Blog
+            </span>
+        </a>
+
+        <a href="/lab">
+            <span class="chip variant-soft hover:variant-filled-tertiary">
+                Lab
+            </span>
+        </a>
     </div>
 
-    <div class="about-me ml-0 max-sm:ml-2">
-        <h2 class="mt-5">Wie Ben Ik?</h2>
+    <div class="about-me ml-0 max-sm:ml-2 w-2/3">
+        <h2 class="mt-5 font-bold mb-2">Wie Ben Ik?</h2>
         <p>
             Hallo, mijn naam is Rick Arendsen. Ik ben 18 jaar oud en een Student
             op het <a href="https://graafschapcollege.nl/">Graafschap College</a
@@ -62,15 +70,17 @@
         </p>
     </div>
 
-    <footer class="mt-2">
-        <a href="/blog" class="btn variant-filled">
-            <Blog />
-            <span><b>Blog</b></span>
-        </a>
+    <div class="mt-5">
+        <footer>
+            <a href="/blog" class="btn variant-filled">
+                <Blog />
+                <span><b>Mijn Blog</b></span>
+            </a>
 
-        <a href="https://www.github.com/rikkertthedeveloper" class="btn variant-filled">
-            <GitHub />
-            <span><b>GitHub Profiel</b></span>
-        </a>
-    </footer>
+            <a href="/projecten" class="btn variant-filled-surface">
+                <BagSuitcase />
+                <span><b>Mijn Projecten</b></span>
+            </a>
+        </footer>
+    </div>
 </div>
