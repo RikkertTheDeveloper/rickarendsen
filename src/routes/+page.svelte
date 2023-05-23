@@ -33,7 +33,7 @@
     <div class="about-me ml-0 max-sm:ml-2 w-2/3">
         <h2 class="mt-5 font-bold mb-2">Wie Ben Ik?</h2>
         <p>
-            Hallo, mijn naam is Rick Arendsen. Ik ben 18 jaar oud en een Student
+            Hallo, mijn naam is Rick Arendsen. Ik ben 19 jaar oud en een Student
             op het <a href="https://graafschapcollege.nl/">Graafschap College</a
             > in Doetinchem. Mijn hobby's zijn gamen en programmeren. Naast mijn
             passie voor gaming en programmeren, heb ik ook een brede interesse in
